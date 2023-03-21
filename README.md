@@ -4,7 +4,7 @@ This project aims to predict credit defaults using a dataset from Lending Club. 
 
 ## Dataset
 
-The dataset contains loan and borrower information, including the loan status, which is the target variable for this project. The dataset is loaded from two CSV files:
+The dataset contains loan and borrower information, including the loan status, which is the target variable for this project. The dataset can be downloaded from this [Google Drive link](https://drive.google.com/drive/folders/1R1w6EgE0tZl265KAd8fqeFev9p29AMoP). The dataset is loaded from two CSV files:
 
 - lending_club_loan_two.csv: Contains the main loan and borrower data.
 - lending_club_info.csv: Contains metadata about the dataset.
